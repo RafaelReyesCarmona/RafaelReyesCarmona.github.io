@@ -1,13 +1,12 @@
 # Site settings
-title: Jekyll Doc Theme
-email: your-email@domain.com
+title: Proyectos
+email: rafael.reyes.carmona@gmail.com
 description: >
-  Jekyll Template for Project Websites
-  providing documentation and blog post pages.
-lang: en-US
+  Página personal de Proyectos.
+lang: es-ES
 
-baseurl: "/RafaelReyesCarmona.github.io" # the subpath of your site, e.g. /blog/
-url: https://RafaelReyesCarmona.github.io # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: https://github.com/RafaelReyesCarmona # the base hostname & protocol for your site
 git_address: https://github.com/RafaelReyesCarmona/RafaelReyesCarmona.github.io
 git_edit_address: https://github.com/RafaelReyesCarmona/RafaelReyesCarmona.github.io/blob/gh-pages
 
